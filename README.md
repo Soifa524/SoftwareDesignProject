@@ -6,6 +6,9 @@ Homepage of the website
 ![AllAuthors](https://github.com/user-attachments/assets/942dd764-a035-45db-a584-e37f0a2c413d)
 Show all auothors
 
+![ViewAuthorProfile](https://github.com/user-attachments/assets/3caf50a8-e149-49ff-bfe5-59e291dfa8c1)
+Show author profile
+
 ![EditAuthorProfile](https://github.com/user-attachments/assets/78915db7-dc75-4bb9-bbfb-1f320d67e891)
 Edit author profile
 
