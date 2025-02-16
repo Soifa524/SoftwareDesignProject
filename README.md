@@ -1,2 +1,2 @@
 # SoftwareDesignProject
-Book Management Project of Software Design Class.
+Book Management Project of Software Design Class
