@@ -12,5 +12,16 @@ Edit author profile
 ![AddNewAuthor](https://github.com/user-attachments/assets/79cde41c-2cbd-4bf5-913a-2606c4f880d4)
 Add new author
 
+![AllGenres](https://github.com/user-attachments/assets/0505a10f-6fc9-4d7a-bc81-e5c0674f49f9)
+Show all genres
+
+![AddNewGenre](https://github.com/user-attachments/assets/9400ebab-c139-4e85-9d1d-a6f28cee0f04)
+Add new genre
+
+![AllBooks](https://github.com/user-attachments/assets/88ee131e-8fcb-4f4f-aaeb-1fb87db369b9)
+Show all books
+
+![Book_details](https://github.com/user-attachments/assets/f7b6a5b9-3288-42c5-8836-7b1dc1b5de71)
+Show book details
 
 
